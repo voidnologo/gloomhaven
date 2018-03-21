@@ -1,0 +1,8 @@
+road-event:
+  name: "Road Events"
+
+city-event:
+  name: "City Events"
+
+scenario:
+  name: "Scenarios"
