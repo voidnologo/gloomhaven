@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Scenario 01: The Black Barrow"
-tags: scenario
+title: 'Markdown Test Page'
+tags:
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)

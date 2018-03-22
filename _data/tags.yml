@@ -6,3 +6,6 @@ city-event:
 
 scenario:
   name: "Scenarios"
+
+character:
+  name: "Characters"
