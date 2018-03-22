@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: http://voidnologo.com/gloomhaven
-baseurl: /
+baseurl: /gloomhaven
 
 # variables
 name: Fantasy Worlds Aint' Flat
