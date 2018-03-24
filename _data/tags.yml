@@ -9,3 +9,6 @@ scenario:
 
 character:
   name: "Characters"
+
+campaign:
+  name: "Campaign"
