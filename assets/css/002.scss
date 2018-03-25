@@ -5,8 +5,8 @@
 @import "main";
 
 @font-face {
-    font-family: PirataOne-Gloomhaven;
-    src: url({{ site.baseurl }}/assets/fonts/PirataOne-Gloomhaven.ttf);
+    font-family: "PirataOne-Gloomhaven";
+    src: url("{{ site.baseurl }}/assets/fonts/PirataOne-Gloomhaven.ttf") format('truetype');
 }
 
 .default_title {
@@ -22,5 +22,9 @@
 }
 
 .gloomfont {
-    font: PirataOne-Gloomhaven;
+    font-family: "PirataOne-Gloomhaven";
+}
+
+#gloomhaven {
+    font-size: 40px;
 }
