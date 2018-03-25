@@ -1,0 +1,6 @@
+{% for monster in page.monsters %}
+  <figure class="monster">
+    <img src="{{ site.baseurl }}/assets/img/monsters/{{ monster }}.jpg" alt="{{ monster }}">
+    <figcaption>{{ monster | split: '_' | join: ' ' | capitalize }}</figcaption>
+  </figure>
+{% endfor %}
