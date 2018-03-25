@@ -4,6 +4,11 @@
 @import "reset";
 @import "main";
 
+@font-face {
+    font-family: PirataOne-Gloomhaven;
+    src: url({{ site.baseurl }}/assets/fonts/PirataOne-Gloomhaven.ttf);
+}
+
 .default_title {
 	background: #808080;
 }
@@ -14,4 +19,8 @@
 .monster img{
     width: 100px;
     height: 100px;
+}
+
+.gloomfont {
+    font: PirataOne-Gloomhaven;
 }
