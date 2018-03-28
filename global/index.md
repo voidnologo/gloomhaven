@@ -1,5 +1,5 @@
 ---
-layout: me
+layout: global
 title: Global
 ---
 ## Sections
