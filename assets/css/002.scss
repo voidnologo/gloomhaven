@@ -43,7 +43,8 @@
 }
 
 figure {
-    display: table;
+    display: flex;
+    align-items: center;
 }
 figcaption {
     text-align: center;
