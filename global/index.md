@@ -29,13 +29,30 @@ title: Global
 # <a name="Unlocked_Classes"></a>Unlocked Character Classes
 {: .gloomfont}
 
-* Brute
-* Cragheart
-* Mindthief
-* Scoundrel
-* Spellweaver
-* Tinker
-* Scoundrel
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/brute_icon.png" alt="brute">
+  <figcaption>Brute</figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/cragheart_icon.png" alt="cragheart">
+  <figcaption>Cragheart</figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/mindthief_icon.png" alt="mindthief">
+  <figcaption>Mind Thief</figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/scoundrel_icon.png" alt="scoundrel">
+  <figcaption>Scoundrel</figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/spellweaver_icon.png" alt="spellweaver">
+  <figcaption>Spellweaver</figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
+  <figcaption>Tinker</figcaption>
+</figure>
 
 
 # <a name="Achievements"></a>Achievements
