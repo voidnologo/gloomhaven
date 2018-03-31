@@ -10,7 +10,7 @@
                   {% unless image.path contains page.gallery.thumb %}
                     <div class="col-lg-4 col-md-3 col-sm-2 thumb">
                       <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ page.gallery.name }}">
-                        <img src="{{ site.baseurl }}{{ image.path | replace:'.jpg', page.gallery.thumb }}" alt="image" />
+                        <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                       </a>
                     </div>
                   {% endunless %}
