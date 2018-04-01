@@ -31,27 +31,27 @@ title: Global
 
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/brute_icon.png" alt="brute">
-  <figcaption>Brute</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/brute">Brute</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/cragheart_icon.png" alt="cragheart">
-  <figcaption>Cragheart</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/cragheart">Cragheart</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/mindthief_icon.png" alt="mindthief">
-  <figcaption>Mind Thief</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/mindthief">Mindthief</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/scoundrel_icon.png" alt="scoundrel">
-  <figcaption>Scoundrel</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/scoundrel">Scoundrel</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/spellweaver_icon.png" alt="spellweaver">
-  <figcaption>Spellweaver</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/spellweaver">Spellweaver</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
-  <figcaption>Tinker</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/tinker">Tinker</a></figcaption>
 </figure>
 
 
