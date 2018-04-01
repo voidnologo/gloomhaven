@@ -72,3 +72,23 @@ a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
     display: inline-block;
     margin: .75em;
 }
+
+.unavailable {
+    color: red;
+    font-size: x-small;
+}
+.available {
+    color: green;
+    font-size: x-small;
+}
+
+.character {
+    display: flex;
+    align-items: center;
+}
+.character img{
+    width: 150px;
+}
+.character h1{
+    font-size: 75px;
+}

@@ -1,10 +1,11 @@
 ---
 layout: global
 type: character
-title: Mindthief
+title: Tinker
+class: tinker
 gallery:
-  name: mindthief
-  path: 'img/ability_cards/mindthief'
+  name: tinker
+  path: 'img/ability_cards/tinker'
   thumb: '_thumb.jpg'
 levels: ['/1', '/x', '/2', '/3', '/4', '/5', '/6', '/7', '/8', '/9']
 ---
