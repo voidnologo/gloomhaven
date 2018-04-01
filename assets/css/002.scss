@@ -67,3 +67,8 @@ a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
         border-top-style: solid;
         border-top-color: rgb(221, 221, 221);
 }
+
+.card {
+    display: inline-block;
+    margin: .75em;
+}

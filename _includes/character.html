@@ -7,7 +7,7 @@
         {% assign folder = page.gallery.path | append: '/1' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -22,7 +22,7 @@
         {% assign folder = page.gallery.path | append: '/x' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -37,7 +37,7 @@
         {% assign folder = page.gallery.path | append: '/2' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -52,7 +52,7 @@
         {% assign folder = page.gallery.path | append: '/3' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -67,7 +67,7 @@
         {% assign folder = page.gallery.path | append: '/4' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -82,7 +82,7 @@
         {% assign folder = page.gallery.path | append: '/5' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -97,7 +97,7 @@
         {% assign folder = page.gallery.path | append: '/6' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -112,7 +112,7 @@
         {% assign folder = page.gallery.path | append: '/7' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -127,7 +127,7 @@
         {% assign folder = page.gallery.path | append: '/8' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -142,7 +142,7 @@
         {% assign folder = page.gallery.path | append: '/9' %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
@@ -158,7 +158,7 @@
         {% assign folder = page.gallery.path | append: level %}
           {% if image.path contains folder %}
             {% unless image.path contains page.gallery.thumb %}
-              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+              <div class="card">
                 <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="all">
                   <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
                 </a>
