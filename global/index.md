@@ -31,27 +31,27 @@ title: Global
 
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/brute_icon.png" alt="brute">
-  <figcaption>Brute</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/brute">Brute</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/cragheart_icon.png" alt="cragheart">
-  <figcaption>Cragheart</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/cragheart">Cragheart</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/mindthief_icon.png" alt="mindthief">
-  <figcaption>Mind Thief</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/mindthief">Mindthief</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/scoundrel_icon.png" alt="scoundrel">
-  <figcaption>Scoundrel</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/scoundrel">Scoundrel</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/spellweaver_icon.png" alt="spellweaver">
-  <figcaption>Spellweaver</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/spellweaver">Spellweaver</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
-  <figcaption>Tinker</figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/tinker">Tinker</a></figcaption>
 </figure>
 
 
@@ -70,3 +70,30 @@ title: Global
 | 07     | Random Side Scenario | #64 Underwater Lair | Scenario 01 |
 | 51     | Random Side Scenario | #68 Toxic Moor      | Scenario 08 |
 | 67     | Gain 10 gold         |                     | Scenario 02 |
+
+
+
+
+<div id="accordion">
+  <h3>Section 1</h3>
+  <div>
+    <p>Mauris mauris ante, blandit et, ultrices a, suscipit eget, quam. Integer ut neque. Vivamus nisi metus, molestie vel, gravida in, condimentum sit amet, nunc. Nam a nibh. Donec suscipit eros. Nam mi. Proin viverra leo ut odio. Curabitur malesuada. Vestibulum a velit eu ante scelerisque vulputate.</p>
+  </div>
+  <h3>Section 2</h3>
+  <div>
+    <p>Sed non urna. Donec et ante. Phasellus eu ligula. Vestibulum sit amet purus. Vivamus hendrerit, dolor at aliquet laoreet, mauris turpis porttitor velit, faucibus interdum tellus libero ac justo. Vivamus non quam. In suscipit faucibus urna. </p>
+  </div>
+  <h3>Section 3</h3>
+  <div>
+    <p>Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis. Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui. </p>
+    <ul>
+      <li>List item one</li>
+      <li>List item two</li>
+      <li>List item three</li>
+    </ul>
+  </div>
+  <h3>Section 4</h3>
+  <div>
+    <p>Cras dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean lacinia mauris vel est. </p><p>Suspendisse eu nisl. Nullam ut libero. Integer dignissim consequat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+  </div>
+</div>

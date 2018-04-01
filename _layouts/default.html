@@ -4,8 +4,10 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/atom-one-light.css">
-    {% if page.title or page.title == 'me' %}
+  <link href="{{ site.baseurl }}/assets/css/lightbox.min.css" rel="stylesheet" />
+    {% if page.title or page.title == 'Global' or page.type == 'character' %}
         <title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/002.css">
     {% else %}
@@ -43,7 +45,7 @@
 		</div>
 		<div class="post_list">
 			{% unless page.date%}
-				{% if page.title == 'Global' or page.title == '404...' %}
+				{% if page.title == 'Global' or page.type == 'character' or page.title == '404...' %}
 					<ul>
 						{% for post in site.posts %}
 						<li><a href="{{  post.url | prepend: site.baseurl }}" title="{{ post.title }}"><img src="{{ site.baseurl }}/assets/img/file.ico" title="{{ post.title }}" />{{ post.title }}</a></li>
@@ -88,6 +90,16 @@
     {% endif %}
 	<script src="{{ site.baseurl }}/assets/js/001.js"></script>
 	<script src="{{ site.baseurl }}/assets/js/002.js"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/lightbox.min.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion({
+      collapsible: true
+    });
+  } );
+  </script>
 	<div class="footer">
 		<p>Created by <a href="http://github.com/voidnologo" target="_blank">voidnologo</a> | Code licensed under <a href="https://github.com/h01000110/h01000110.github.io/blob/master/LICENSE" target="_blank">MIT License</a></p>
 	</div>

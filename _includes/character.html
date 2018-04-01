@@ -1,0 +1,18 @@
+
+
+<section id="cards">
+    {% for image in site.static_files %}
+      {% for level in page.levels%}
+        {% assign folder = page.gallery.path | append: level %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="col-lg-4 col-md-3 col-sm-2 thumb">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ page.gallery.name }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+      {% endfor %}
+    {% endfor %}
+</section>

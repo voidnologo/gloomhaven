@@ -49,3 +49,21 @@ figure {
 figcaption {
     text-align: center;
 }
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active,
+a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: 1px solid #00007f;
+    background: #00007f;
+    font-weight: normal;
+    color: #808080;
+}
+
+.ui-corner-all, .ui-corner-top, .ui-corner-bottom, .ui-corner-right, .ui-corner-left, .ui-corner-tr, .ui-corner-tl{
+    border-radius: 0 0 0 0;
+}
+.ui-widget-content {
+    border: 1px solid #dddddd;
+        border-top-width: 1px;
+        border-top-style: solid;
+        border-top-color: rgb(221, 221, 221);
+}
