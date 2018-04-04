@@ -12,15 +12,16 @@ title: Global
 # <a name="Unlocked_Locations"></a>Unlocked Locations
 {: .gloomfont}
 
+<span class="unavailable">** Unmet Requirements</span>
 * [#01 Black Barrow]({{ site.baseurl }}{% post_url 2018-03-05-scenario_01 %}) <span class="map_loc">(G-10)</span>
-* [#02 Barrow Lair]({{ site.baseurl }}{% post_url 2018-03-12-scenario_02 %}) <span class="map_loc">(G-11)</span> <span class="available">First Steps (Party)</span>
-* [#03 Inox Encampment]({{ site.baseurl }}{% post_url 2018-03-19-scenario_03 %}) <span class="map_loc">(G-3)</span> <span class="available">The Merchant Flees (Global)</span>
+* [#02 Barrow Lair]({{ site.baseurl }}{% post_url 2018-03-12-scenario_02 %}) <span class="map_loc">(G-11)</span>
+* [#03 Inox Encampment]({{ site.baseurl }}{% post_url 2018-03-19-scenario_03 %}) <span class="map_loc">(G-3)</span>
 * #04 Crypt of the Damned <span class="map_loc">(C-11)</span>
-* #07 Vibrant Grotto <span class="map_loc">(C-12)</span>  <span class="unavailable">The Power of Enchantment (Global)</span>
+* #07 Vibrant Grotto <span class="map_loc">(C-12)</span>
 * [#08 Gloomhaven Warehouse]({{ site.baseurl }}{% post_url 2018-03-26-scenario_08 %}) <span class="map_loc">(C-18)</span>
 * #09 Diamond Mine <span class="map_loc">(L-2)</span> <span class="unavailable">The Merchant Flees (Global) INCOMPLETE</span>
 * #13 Temple of the Seer <span class="map_loc">(N-3)</span>
-* #14 Frozen Hollow <span class="map_loc">(C-10)</span>
+* [#14 Frozen Hollow]({{ site.baseurl }}{% post_url 2018-04-02-scenario_14 %}) <span class="map_loc">(C-10)</span>
 * #64 Underwater Lair <span class="map_loc">(K-16)</span> <span class="unavailable">Water-Breathing (Global)</span>
 * #68 Toxic Moor <span class="map_loc">(N-8)</span>
 * #81 Temple of the Eclipse <span class="map_loc">(O-2)</span>
@@ -60,6 +61,7 @@ title: Global
 
 *  City Rule: Militaristic
 *  The Merchant Flees
+*  The Power of Enhancement
 
 
 # <a name="Treasure"></a>Treasure
@@ -68,5 +70,6 @@ title: Global
 | Number | Description          | Effect              | Location    |
 | :----- | :------------------- | :------------------ | :---------- |
 | 07     | Random Side Scenario | #64 Underwater Lair | Scenario 01 |
+| 26     | Gain 20 gold         |                     | Scenario 14 |
 | 51     | Random Side Scenario | #68 Toxic Moor      | Scenario 08 |
 | 67     | Gain 10 gold         |                     | Scenario 02 |
