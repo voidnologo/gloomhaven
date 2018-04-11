@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Scooty McBooty</title>
+    <link href="https://fonts.googleapis.com/css?family=Gaegu" rel="stylesheet">
+    <style type="text/css">
+        @font-face {
+            font-family: "PirataOne-Gloomhaven";
+            src: url("../assets/fonts/PirataOne-Gloomhaven.ttf") format('truetype');
+        }
+
+        @font-face {
+            font-family: 'Gaegu';
+            font-style: normal;
+            font-weight: 400;
+            src: url(http://really-long-url.woff) format('woff');
+        }
+
+        html {
+          background: url("../assets/img/characters/scooty/realistic-rocks.jpg") no-repeat fixed;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+        }
+
+        .gloomfont {
+            font-family: "PirataOne-Gloomhaven";
+            text-shadow: 0px 0px 6px black;
+            color: #008202;
+        }
+
+        .gaegu {
+            font-family: "Gaegu";
+            font-size: 30px;
+        }
+
+        .scooty-mcbooty-image {
+          width: 90%;
+        }
+
+        #name {
+            font-size: 75px;
+        }
+
+        .row {
+          display: inline-block;
+          overflow: hidden;
+          position: relative;
+          width: 100%;
+        }
+
+        .left-image {
+          float: left;
+          width: 40%;
+        }
+
+        .left-text {
+          float: left;
+          width: 60%;
+        }
+
+        .right-text {
+          width: 50%;
+          float: right;
+        }
+
+        .right-image {
+          width: 30%;
+          float: right;
+        }
+
+        .sub-text {
+          display: inline-block;
+          margin-left: 30px;
+          vertical-align: top;
+        }
+
+        .extra-margin {
+          margin-left: 50px;
+        }
+
+        #catchphrase-container {
+            text-align: center;
+            width: 100%;
+        }
+
+        #catchphrase {
+            font-size: 75px;
+            float: center;
+            display: inline-block;
+        }
+
+        .heading {
+          font-size: 50px;
+        }
+
+        p, ul {
+          font-size: 20px;
+        }
+
+    </style>
+  </head>
+
+  <body>
+    <h1 id="name" class="gloomfont">Scooty McBooty</h1>
+
+    <div class="row">
+      <div class="left-image">
+        <img class="scooty-mcbooty-image" src="../assets/img/characters/scooty/scooty-full-size.png" alt="Scooty McBooty">
+      </div>
+      <div class="right-text">
+        <h2 class="gloomfont heading">Origins and Purpose</h2>
+        <p class="gaegu">
+          Scooty spent the first 18 years of her life mastering the Earth element among her people. Shortly after
+          beginning training in Air, she became disgusted by the power-hungry nature of the Savvas race and set out on a
+          search for truth and the path to redemption. During her travels, Scooty has heard many rumors of a legendary
+          holy axe held by a vile necromancer and hopes to earn redemption by killing the necromancer, taking the axe,
+          and laying waste to the undead menace that threatens Gloomhaven.
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="left-text">
+        <div class="sub-text">
+          <h2 class="gloomfont heading">Scooty Likes</h2>
+          <ul class="gaegu">
+            <li>Kittens</li>
+            <li>Unicorns</li>
+            <li>Smashing enemies</li>
+          </ul>
+        </div>
+        <div class="sub-text extra-margin">
+          <h2 class="gloomfont heading">Scooty Dislikes</h2>
+          <ul class="gaegu">
+            <li>Necromancers</li>
+            <li>Being mistaken for a boy</li>
+          </ul>
+        </div>
+      </div>
+      <div class="right-image">
+        <img class="scooty-mcbooty-image" src="../assets/img/characters/scooty/scooty-small-size.png" alt="Scooty McBooty">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="left-image">
+        <img class="scooty-mcbooty-image" src="../assets/img/characters/scooty/falling-rocks.png" alt="Scooty McBooty">
+      </div>
+      <div class="right-text">
+        <h2 class="gloomfont heading">Dangers of Travelling with Scooty</h2>
+        <ul class="gaegu">
+          <li>Being hit with flying debris</li>
+          <li>Being crushed by fallen debris</li>
+          <li>Being burned by Scooty's wit</li>
+          <li>Not having any enemies to kill because Scooty killed them all</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+      <div id="catchphrase-container" class="gloomfont">
+        <div id="catchphrase">"Smash-a-smash!"</div>
+      </div>
+    </div>
+
+  </body>
+</html>
