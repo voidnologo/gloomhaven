@@ -1,0 +1,180 @@
+<div class="character">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/{{ page.class }}_icon.png" alt="{{ page.class }}">
+  <h1 class="gloomfont">{{ page.title }}</h1>
+</div>
+
+<div class="blurb">
+  <img src="{{ site.baseurl }}/assets/img/classes/{{ page.class }}.jpg" alt="{{ page.class }}">
+</div>
+
+<section id="cards">
+<div id="accordion">
+  <h3>Level 1</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/1' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+   </div>
+  <h3>Level X</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/x' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 2</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/2' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 3</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/3' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 4</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/4' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 5</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/5' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 6</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/6' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 7</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/7' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 8</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/8' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>Level 9</h3>
+  <div>
+    {% for image in site.static_files %}
+        {% assign folder = page.gallery.path | append: '/9' %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="{{ folder }}">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+    {% endfor %}
+  </div>
+  <h3>ALL</h3>
+  <div>
+    {% for image in site.static_files %}
+      {% for level in page.levels %}
+        {% assign folder = page.gallery.path | append: level %}
+          {% if image.path contains folder %}
+            {% unless image.path contains page.gallery.thumb %}
+              <div class="card">
+                <a href="{{ site.baseurl }}{{ image.path }}" data-lightbox="all">
+                  <img src="{{ site.baseurl }}{{ image.path | replace:'.jpeg', page.gallery.thumb }}" alt="image" />
+                </a>
+              </div>
+            {% endunless %}
+          {% endif %}
+       {% endfor %}
+    {% endfor %}
+  </div>
+</div>
+</section>
