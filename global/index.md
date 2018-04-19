@@ -5,6 +5,7 @@ title: Global
 ## Sections
 * [Unlocked Locations](#Unlocked_Locations)
 * [Unlocked Character Classes](#Unlocked_Classes)
+* [Gloomhaven Prosperity](#Prosperity)
 * [Achievments](#Achievements)
 * [Treasure](#Treasure)
 
@@ -55,6 +56,19 @@ title: Global
   <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
   <figcaption><a href="{{ site.baseurl }}/global/characters/tinker">Tinker</a></figcaption>
 </figure>
+
+
+# <a name="Prosperity"></a>Gloomhaven Prosperity
+{: .gloomfont}
+&#9746; 1  <br>
+&#9746;&#9746;&#9746;&#9744; 2 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744; 3 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 4 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 5 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 6 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 7 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 8 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 9 <br>
 
 
 # <a name="Achievements"></a>Achievements
