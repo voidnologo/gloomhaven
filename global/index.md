@@ -5,6 +5,7 @@ title: Global
 ## Sections
 * [Unlocked Locations](#Unlocked_Locations)
 * [Unlocked Character Classes](#Unlocked_Classes)
+* [Gloomhaven Prosperity](#Prosperity)
 * [Achievments](#Achievements)
 * [Treasure](#Treasure)
 
@@ -22,7 +23,7 @@ title: Global
 * #09 Diamond Mine <span class="map_loc">(L-2)</span> <span class="unavailable">The Merchant Flees (Global) INCOMPLETE</span>
 * #13 Temple of the Seer <span class="map_loc">(N-3)</span>
 * [#14 Frozen Hollow]({{ site.baseurl }}{% post_url 2018-04-02-scenario_14 %}) <span class="map_loc">(C-10)</span>
-* #20 Necromancer's Sanctum<span class="map_loc">(H-13)</span>
+* [#20 Necromancer's Sanctum]({{ site.baseurl }}{% post_url 2018-04-16-scenario_20 %}) <span class="map_loc">(H-13)</span>
 * #64 Underwater Lair <span class="map_loc">(K-16)</span> <span class="unavailable">Water-Breathing (Global)</span>
 * #68 Toxic Moor <span class="map_loc">(N-8)</span>
 * #81 Temple of the Eclipse <span class="map_loc">(O-2)</span>
@@ -55,6 +56,19 @@ title: Global
   <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
   <figcaption><a href="{{ site.baseurl }}/global/characters/tinker">Tinker</a></figcaption>
 </figure>
+
+
+# <a name="Prosperity"></a>Gloomhaven Prosperity
+{: .gloomfont}
+&#9746; 1  <br>
+&#9746;&#9746;&#9746;&#9744; 2 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744; 3 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 4 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 5 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 6 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 7 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 8 <br>
+&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 9 <br>
 
 
 # <a name="Achievements"></a>Achievements
