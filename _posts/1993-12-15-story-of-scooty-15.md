@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "The Necromancer's Sanctum"
+title: "Chapter X"
 tags: story-of-scooty
 ---
 
@@ -65,8 +65,9 @@ turned together and started to race after the Quatryl as Sir Integral wheeled ar
 himself up to his tallest, and angrily pointed at the skeleton in the doorway. "You, yeah, YOU!
 Thou odorous pile of putrid filth, I'll get you!  When I come back, *FIRE AND DOOM* on you and
 all your measly little friends!" Scooty heard a high-pitched squeal and stopped to look back. Sir
-Integral was standing still, a look of horror on his face, an arrow sticking out of his hat. He
-quickly regained his composure and shouted, "My hat! You Wretched little Turd Sack, why when I ..."
-At the sight of more arrows flying towards him, the Orchid scampered backwards, limbs flailing, and
-turned to run alongside the others. "What are you still doing here? I thought I told you to
-*move*!""
+Integral was standing still, a look of horror on his face. Scooty could just see the precious top
+hat being trampled under the feet of the corpses that were slowly shambling towards him. Sir
+Integral quickly regained his composure and shouted, "My hat! You Wretched little Turd Sack, why
+when I ..." After barely dodging the swinging arm of the nearest corpse, the Orchid scampered
+backwards, limbs flailing, and turned to run alongside the others. "What are you still doing here?
+I thought I told you to *move*!""
