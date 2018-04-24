@@ -21,9 +21,10 @@ title: Global
 * [#07 Vibrant Grotto]({{ site.baseurl }}{% post_url 2018-04-09-scenario_07 %}) <span class="map_loc">(C-12)</span>
 * [#08 Gloomhaven Warehouse]({{ site.baseurl }}{% post_url 2018-03-26-scenario_08 %}) <span class="map_loc">(C-18)</span>
 * #09 Diamond Mine <span class="map_loc">(L-2)</span> <span class="unavailable">The Merchant Flees (Global) INCOMPLETE</span>
-* #13 Temple of the Seer <span class="map_loc">(N-3)</span>
+* [#13 Temple of the Seer]({{ site.baseurl }}{% post_url 2018-04-23-scenario_13 %}) <span class="map_loc">(N-3)</span>
 * [#14 Frozen Hollow]({{ site.baseurl }}{% post_url 2018-04-02-scenario_14 %}) <span class="map_loc">(C-10)</span>
 * #16 Mountain Pass <span class="map_loc">(B-6)</span>
+* #17 Lost Island <span class="map_loc">(K-17)</span>
 * #18 Abandoned Sewers <span class="map_loc">(C-14)</span>
 * [#20 Necromancer's Sanctum]({{ site.baseurl }}{% post_url 2018-04-16-scenario_20 %}) <span class="map_loc">(H-13)</span>
 * #28 Outer Ritual Chamber <span class="map_loc">(E-4)</span>
