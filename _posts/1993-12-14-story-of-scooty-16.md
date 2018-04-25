@@ -95,9 +95,10 @@ ever seen, slicing through Jekserah’s armor. She struggled to raise her bow, s
 of Blockingjay’s blow, and shot weakly at the Inox. The dirt tornado circled around again, and a
 chunk of debris hit her in the head.
 
-“What’s taking so long?!” Scooty assumed from the high-pitched shriek that Sir Integral’s
-invisibility cloak had worn out. Two small orbs of fire darted between her and Blockingjay, hitting
-Jekserah with twin sizzles.
+“What’s taking so long?!”
+
+Scooty assumed from the high-pitched shriek that Sir Integral’s invisibility cloak had worn out.
+Two small orbs of fire darted between her and Blockingjay, hitting Jekserah with twin sizzles.
 
 Scooty noticed a mechanical grinding as she started the dirt tornado on another rotation.
 Blockingjay brought another mighty blow down on Jekserah’s head, and Sir Integral continued to toss
@@ -114,5 +115,5 @@ and began to quiver.
 
 With one more hack of his blade, Blockingjay separated Jekserah’s head from her body. The remaining
 undead collapsed, suddenly lacking a life force to keep them animated. Scooty turned away from the
-sight of the Valrath’s corpse as Blockingjay picked up the severed head, storing it grimly in an
-unused pocket of his pack.
+sight of the Valrath’s corpse as Blockingjay picked up the severed head, storing it grimly in the
+head-sized pouch attached to his pack.
