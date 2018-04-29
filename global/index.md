@@ -24,12 +24,13 @@ title: Global
 * [#13 Temple of the Seer]({{ site.baseurl }}{% post_url 2018-04-23-scenario_13 %}) <span class="map_loc">(N-3)</span>
 * [#14 Frozen Hollow]({{ site.baseurl }}{% post_url 2018-04-02-scenario_14 %}) <span class="map_loc">(C-10)</span>
 * #16 Mountain Pass <span class="map_loc">(B-6)</span>
-* #17 Lost Island <span class="map_loc">(K-17)</span>
+* [#17 Lost Island]({{ site.baseurl }}{% post_url 2018-04-28-scenario_17 %}) <span class="map_loc">(K-17)</span>
 * #18 Abandoned Sewers <span class="map_loc">(C-14)</span>
 * [#20 Necromancer's Sanctum]({{ site.baseurl }}{% post_url 2018-04-16-scenario_20 %}) <span class="map_loc">(H-13)</span>
 * #28 Outer Ritual Chamber <span class="map_loc">(E-4)</span>
 * #64 Underwater Lair <span class="map_loc">(K-16)</span> <span class="unavailable">Water-Breathing (Global)</span>
-* #68 Toxic Moor <span class="map_loc">(N-8)</span>
+* #66 Clockwork Cove <span class="map_loc">(G-14)</span>
+* [#68 Toxic Moor ]({{ site.baseurl }}{% post_url 2018-04-28-scenario_68 %}) <span class="map_loc">(N-8)</span>
 * #81 Temple of the Eclipse <span class="map_loc">(O-2)</span>
 
 
@@ -38,27 +39,39 @@ title: Global
 
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/brute_icon.png" alt="brute">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/brute">Brute</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/brute">Inox Brute</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/cragheart_icon.png" alt="cragheart">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/cragheart">Cragheart</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/cragheart">Savvas Cragheart</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/mindthief_icon.png" alt="mindthief">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/mindthief">Mindthief</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/mindthief">Vermling Mindthief</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/scoundrel_icon.png" alt="scoundrel">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/scoundrel">Scoundrel</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/scoundrel">Human Scoundrel</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/spellweaver_icon.png" alt="spellweaver">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/spellweaver">Spellweaver</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/spellweaver">Orcid Spellweaver</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/tinker">Tinker</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/tinker">Quatryl Tinker</a></figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/beast_tyrant_icon.png" alt="beast_tyrant">
+  <figcaption><a href="{{ site.baseurl }}/global/characters/beast_tyrant">Vermling Beast Tyrant</a></figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/sunkeeper_icon.png" alt="sunkeeper">
+  <figcaption><a href="{{ site.baseurl }}/global/characters/sunkeeper">Valrath Sunkeeper</a></figcaption>
+</figure>
+<figure class="class_icon">
+  <img src="{{ site.baseurl }}/assets/img/class_icons/elementalist_icon.png" alt="elementalist">
+  <figcaption><a href="{{ site.baseurl }}/global/characters/elementalist">Savvas Elementalist</a></figcaption>
 </figure>
 
 
@@ -66,7 +79,7 @@ title: Global
 {: .gloomfont}
 &#9746; 1  <br>
 &#9746;&#9746;&#9746;&#9746; 2 <br>
-&#9744;&#9744;&#9744;&#9744;&#9744; 3 <br>
+&#9746;&#9746;&#9746;&#9746;&#9746; 3 <br>
 &#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 4 <br>
 &#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 5 <br>
 &#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744;&#9744; 6 <br>
@@ -93,3 +106,4 @@ title: Global
 | 51     | Random Side Scenario | #68 Toxic Moor      | Scenario 08 |
 | 60     | Recieve item #113    | Skullbane Axe       | Scenario 20 |
 | 67     | Gain 10 gold         |                     | Scenario 02 |
+| 71     | Random Side Scenario | #66 Clockwork Cove  | Scenario 17 |
