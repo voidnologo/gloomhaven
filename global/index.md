@@ -55,7 +55,7 @@ title: Global
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/spellweaver_icon.png" alt="spellweaver">
-  <figcaption><a href="{{ site.baseurl }}/global/characters/spellweaver">Orcid Spellweaver</a></figcaption>
+  <figcaption><a href="{{ site.baseurl }}/global/characters/spellweaver">Orchid Spellweaver</a></figcaption>
 </figure>
 <figure class="class_icon">
   <img src="{{ site.baseurl }}/assets/img/class_icons/tinker_icon.png" alt="tinker">
