@@ -25,9 +25,12 @@ title: Global
 * [#14 Frozen Hollow]({{ site.baseurl }}{% post_url 2018-04-02-scenario_14 %}) <span class="map_loc">(C-10)</span>
 * #16 Mountain Pass <span class="map_loc">(B-6)</span>
 * [#17 Lost Island]({{ site.baseurl }}{% post_url 2018-04-28-scenario_17 %}) <span class="map_loc">(K-17)</span>
-* #18 Abandoned Sewers <span class="map_loc">(C-14)</span>
+* [#18 Abandonded Sewers]({{ site.baseurl }}{% post_url 2018-04-30-scenario_18 %}) <span class="map_loc">(C-14)</span>
 * [#20 Necromancer's Sanctum]({{ site.baseurl }}{% post_url 2018-04-16-scenario_20 %}) <span class="map_loc">(H-13)</span>
+* [#23 Deep Ruins]({{ site.baseurl }}{% post_url 2018-07-03-scenario_23 %}) <span class="map_loc">(C-15)</span>
+* #26 Ancient Cistern <span class="map_loc">(D-15)</span>
 * #28 Outer Ritual Chamber <span class="map_loc">(E-4)</span>
+* #43 Drake Nest <span class="map_loc">(D-4)</span> <br>
 * #64 Underwater Lair <span class="map_loc">(K-16)</span> <span class="unavailable">Water-Breathing (Global)</span>
 * #66 Clockwork Cove <span class="map_loc">(G-14)</span>
 * [#68 Toxic Moor ]({{ site.baseurl }}{% post_url 2018-04-28-scenario_68 %}) <span class="map_loc">(N-8)</span>
@@ -94,6 +97,7 @@ title: Global
 *  City Rule: Militaristic
 *  The Merchant Flees
 *  The Power of Enhancement
+*  Ancient Technology
 
 
 # <a name="Treasure"></a>Treasure
@@ -103,7 +107,9 @@ title: Global
 | :----- | :------------------- | :------------------ | :---------- |
 | 07     | Random Side Scenario | #64 Underwater Lair | Scenario 01 |
 | 26     | Gain 20 gold         |                     | Scenario 14 |
+| 39     | Take 5 Damage        |                     | Scenario 23 |
 | 51     | Random Side Scenario | #68 Toxic Moor      | Scenario 08 |
-| 60     | Recieve item #113    | Skullbane Axe       | Scenario 20 |
+| 60     | "Skullbane Axe"      | Add item 113        | Scenario 20 |
 | 67     | Gain 10 gold         |                     | Scenario 02 |
 | 71     | Random Side Scenario | #66 Clockwork Cove  | Scenario 17 |
+| 72     | "Fueled Falchion"    | Add item 116        | Scenario 23 |
