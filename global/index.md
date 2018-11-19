@@ -34,7 +34,7 @@ title: Global
 * #64 Underwater Lair <span class="map_loc">(K-16)</span> <span class="unavailable">Water-Breathing (Global)</span>
 * #66 Clockwork Cove <span class="map_loc">(G-14)</span>
 * [#68 Toxic Moor ]({{ site.baseurl }}{% post_url 2018-04-28-scenario_68 %}) <span class="map_loc">(N-8)</span>
-* #81 Temple of the Eclipse <span class="map_loc">(O-2)</span>
+* [#81 Temple of the Eclipse]({{ site.baseurl }}{% post_url 2018-10-18-scenario_81 %}) <span class="map_loc">(D-2)</span>
 
 
 # <a name="Unlocked_Classes"></a>Unlocked Character Classes
