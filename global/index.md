@@ -31,6 +31,8 @@ title: Global
 * #26 Ancient Cistern <span class="map_loc">(D-15)</span>
 * #28 Outer Ritual Chamber <span class="map_loc">(E-4)</span>
 * #43 Drake Nest <span class="map_loc">(D-4)</span> <br>
+* [#57 Invesitgation]({{ site.baseurl }}{% post_url 2018-07-26-scenario_57 %}) <span class="map_loc">(D-14)</span>
+* [#58 Bloody Shack]({{ site.baseurl }}{% post_url 2018-07-26-scenario_58 %}) <span class="map_loc">(E-15)</span>
 * #64 Underwater Lair <span class="map_loc">(K-16)</span> <span class="unavailable">Water-Breathing (Global)</span>
 * #66 Clockwork Cove <span class="map_loc">(G-14)</span>
 * [#68 Toxic Moor ]({{ site.baseurl }}{% post_url 2018-04-28-scenario_68 %}) <span class="map_loc">(N-8)</span>
