@@ -17,7 +17,9 @@ title: Global
 * [#01 Black Barrow]({{ site.baseurl }}{% post_url 2018-03-05-scenario_01 %}) <span class="map_loc">(G-10)</span>
 * [#02 Barrow Lair]({{ site.baseurl }}{% post_url 2018-03-12-scenario_02 %}) <span class="map_loc">(G-11)</span>
 * [#03 Inox Encampment]({{ site.baseurl }}{% post_url 2018-03-19-scenario_03 %}) <span class="map_loc">(G-3)</span>
-* #04 Crypt of the Damned <span class="map_loc">(C-11)</span>
+* [#04 Crypt of the Damned]({{ site.baseurl }}{% post_url 2018-12-18-scenario_04 %}) <span class="map_loc">(C-11)</span>
+* #05 Ruinous Crypt <span class="map_loc">(D-6)</span>
+* #06 Decaying Crypt <span class="map_loc">(F-10)</span>
 * [#07 Vibrant Grotto]({{ site.baseurl }}{% post_url 2018-04-09-scenario_07 %}) <span class="map_loc">(C-12)</span>
 * [#08 Gloomhaven Warehouse]({{ site.baseurl }}{% post_url 2018-03-26-scenario_08 %}) <span class="map_loc">(C-18)</span>
 * #09 Diamond Mine <span class="map_loc">(L-2)</span> <span class="unavailable">The Merchant Flees (Global) INCOMPLETE</span>
@@ -27,8 +29,9 @@ title: Global
 * [#17 Lost Island]({{ site.baseurl }}{% post_url 2018-04-28-scenario_17 %}) <span class="map_loc">(K-17)</span>
 * [#18 Abandonded Sewers]({{ site.baseurl }}{% post_url 2018-04-30-scenario_18 %}) <span class="map_loc">(C-14)</span>
 * [#20 Necromancer's Sanctum]({{ site.baseurl }}{% post_url 2018-04-16-scenario_20 %}) <span class="map_loc">(H-13)</span>
+* #22 Temple of the Elements <span class="map_loc">(K-8)</span>
 * [#23 Deep Ruins]({{ site.baseurl }}{% post_url 2018-07-03-scenario_23 %}) <span class="map_loc">(C-15)</span>
-* #26 Ancient Cistern <span class="map_loc">(D-15)</span>
+* [#26 Ancient Cistern]({{ site.baseurl }}{% post_url 2018-07-12-scenario_26 %}) <span class="map_loc">(D-15)</span>
 * #28 Outer Ritual Chamber <span class="map_loc">(E-4)</span>
 * #43 Drake Nest <span class="map_loc">(D-4)</span> <br>
 * [#57 Invesitgation]({{ site.baseurl }}{% post_url 2018-07-26-scenario_57 %}) <span class="map_loc">(D-14)</span>
@@ -109,7 +112,9 @@ title: Global
 | :----- | :------------------- | :------------------ | :---------- |
 | 07     | Random Side Scenario | #64 Underwater Lair | Scenario 01 |
 | 26     | Gain 20 gold         |                     | Scenario 14 |
+| 38     | "Ring of Skulls" design | Add item 123     | Scenario 04 |
 | 39     | Take 5 Damage        |                     | Scenario 23 |
+| 46     | Suffer 3 damage, gain POISON |             | Scenario 04 |
 | 51     | Random Side Scenario | #68 Toxic Moor      | Scenario 08 |
 | 60     | "Skullbane Axe"      | Add item 113        | Scenario 20 |
 | 67     | Gain 10 gold         |                     | Scenario 02 |
