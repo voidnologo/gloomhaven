@@ -41,11 +41,7 @@ take very long at all.”
 Blockingjay grunted and took another handful of popcorn from the bowl at the center of the table. “I
 guess that would be fine,” he mumbled before throwing the entire handful in his mouth.
 
-————
-
-[INSERT ROAD EVENT]
-
-————
+----
 
 Mud sucked at Scooty and Blockingjay’s feet as they stumbled through the swamp. Master Ratchet seemed
 to be light enough that the mud didn’t affect him at all, and Sir Integral, not wanting to get his
@@ -103,8 +99,8 @@ As the first two drakes fell to Blockingjay’s sword, a living corpse and a sec
 from the smoke. The imp spat more foul liquid as the corpse shuffled forward. Scooty leaped forward,
 pulling the Skullbane Axe from its place attached to her pack, and swung, killing the corpse with a
 single blow. She summoned chunks of dirt with her off hand and threw them at the second imp as she
-rehung the axe. She turned and hacked at the viper behind her, the sounds of the first dying imp
-finally reaching her ears.
+rehung the axe. She turned and threw a punch at the viper behind her, the sounds of the first dying
+imp finally reaching her ears.
 
 “We can make it!” she called back to her friends. “Just a little further!”
 
@@ -121,8 +117,8 @@ various potions into the air. Sir Integral, his eyes focused on a chest half-bur
 the other side of the tree, darted quickly past all of them.
 
 The creatures fell quickly around the heroes, falling into the foul water with dull splashes as they
-did. Sir Integral rejoined the Quatryl, the Savvas, and the Inox a short distance from the tree. The
-y all gazed up at it in awe as the last of the blazes died out and the smoke started to clear. The
+did. Sir Integral rejoined the Quatryl, the Savvas, and the Inox a short distance from the tree. They
+all gazed up at it in awe as the last of the blazes died out and the smoke started to clear. The
 tree was already beginning to regenerate, its bark turning various shades of dark greens and light
 browns, its leaves glowing a brilliant light green. Master Ratchet and Blockingjay approached the
 tree almost reverently. Master Ratchet gently took small samples of the bark, stowing them in a

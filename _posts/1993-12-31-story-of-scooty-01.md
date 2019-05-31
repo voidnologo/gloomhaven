@@ -28,8 +28,7 @@ picked up her pace. There would be time to sort out her emotions when she was fa
 
 She was two steps from the door when she realized that she could see her shadow on the wall in
 front of her. She chanced a look back to see far too many torches lighting up the walkways. Not
-concerned about making any noise now, she started to run, relieved that the mob was still a good
-distance behind her.
+concerned about making any noise now, she started to run.
 
 The pre-dawn world seemed eerily peaceful as Erecura sprinted through the forest. A soft breeze
 blew sleepily through the trees, the leaves rustling gently. Her footsteps were nearly silent,
@@ -67,4 +66,4 @@ at Natae's feet.
 Now you are cursed, and forever exiled from your people."
 
 "Then let me be cursed." Erecura turned from the Savvas, setting her gaze upon where the sun was
-rising behind the mountains, and started to run.
+rising behind the mountains, and ran.
